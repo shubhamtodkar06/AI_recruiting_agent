@@ -1,1 +1,29 @@
-{}
+{
+    "Front-End-Developer.pdf": {
+        "Job Role": "Front End Developer/Webmaster",
+        "Required Skills": [
+            "High proficiency with WordPress",
+            "Working knowledge of HTML, CSS and Javascript",
+            "Working knowledge of CakePHP",
+            "Proficiency in Adobe Creative Suite (Dreamweaver, Flash 8, Fireworks 8, Acrobat 8) and Windows environment (Windows XP, Microsoft Office)",
+            "Familiarity with networking systems and networking concepts"
+        ],
+        "Responsibilities": [
+            "Make HTML and content updates to Reserve websites",
+            "Maintain sites through WordPress open source software",
+            "Develop new sites through WordPress",
+            "Implement new website functionality",
+            "Enhance user interfaces for the Reserve’s websites",
+            "Troubleshoot website operation; track site usage statistics and monitor performance",
+            "Develop and maintain new online resources",
+            "Manage internal users and user permissions on websites",
+            "Ensure websites are secure",
+            "Locate and debug website issues",
+            "Assist with maintenance of system hardware and servers",
+            "Advise on acquisition and installation of new hardware and servers, when necessary"
+        ],
+        "Qualifications": "High proficiency with WordPress, Working knowledge of HTML, CSS and Javascript, Working knowledge of CakePHP, Proficiency in Adobe Creative Suite (Dreamweaver, Flash 8, Fireworks 8, Acrobat 8) and Windows environment (Windows XP, Microsoft Office), Familiarity with networking systems and networking concepts",
+        "Experience Required": "",
+        "Company Name": "The Climate Action Reserve"
+    }
+}
