@@ -1,4 +1,214 @@
 {
+    "Java-Developer(Chennai,India).pdf": {
+        "Job Role": "Java Developer",
+        "Required Skills": [
+            "Core Java",
+            "J2EE",
+            "Spring MVC",
+            "Spring REST APIs",
+            "Spring Security",
+            "JSP",
+            "Web application",
+            "MS SQL Server",
+            "Redis",
+            "Oauth2",
+            "Angular",
+            "JQuery"
+        ],
+        "Responsibilities": [
+            "Design and build advanced Web applications with Core Java, J2EE.",
+            "Work with outside data sources and APIs",
+            "Translate designs and wireframes into high quality code",
+            "Design, build, and maintain high performance, reusable, and reliable web applications",
+            "Work on bug fixing and improving application performance"
+        ],
+        "Qualifications": [
+            "Any degree in Computer Science or Engineering or a related subject",
+            "4 to 6 years of programming experience with an ability to understand software development.",
+            "Should have deep understanding of Java Frameworks and allied skill sets.",
+            "Good experience in SQL server enabled understanding and write complex stored procedures",
+            "Experience working with remote data via REST and JSON",
+            "Experience with third-party libraries and APIs",
+            "Ability to understand business requirements and translate them into technical requirements",
+            "Experience with offline storage, threading, and performance tuning",
+            "Strong knowledge of UI design principles, patterns, and best practices",
+            "Familiarity with continuous integration",
+            "Good communication, presentation, and interpersonal skills",
+            "Good logical and analytical skills"
+        ],
+        "Experience Required": "4 to 6 Years",
+        "Company Name": ""
+    },
+    "software-engineer-job-description.pdf": {
+        "Job Role": [
+            {
+                "Role": "Software Engineer",
+                "Company Name": "Amazon",
+                "Required Skills": [
+                    "Java",
+                    "C++",
+                    "C#",
+                    "Python",
+                    "NodeJS",
+                    "Ruby"
+                ],
+                "Responsibilities": [
+                    "Design and develop world-class solutions",
+                    "Translate business requirements to engineering requirements",
+                    "Adapt quickly to new environments",
+                    "Use creativity to solve difficult problems"
+                ],
+                "Qualifications": [
+                    "Bachelor’s degree in computer science or a related field",
+                    "Programming experience with at least one modern language such as Java, C++, or C#",
+                    "Understanding of computer science fundamentals",
+                    "Working knowledge of programming languages other than Java, C, or C++",
+                    "Working knowledge of databases, service-oriented architectures, and highly-scaled distributed systems",
+                    "Experience with Amazon Web Services",
+                    "Experience with mission-critical, 24×7 systems experience with high throughput cloud systems",
+                    "Masters degree in Computer Science or equivalent"
+                ],
+                "Experience Required": "1+ years’ experience writing production code of increasing complexity"
+            },
+            {
+                "Role": "Software Engineer",
+                "Company Name": "Thomson Reuters",
+                "Required Skills": [
+                    "Core Java",
+                    "J2EE",
+                    "Spring Framework",
+                    "HTML",
+                    "CSS",
+                    "JavaScript",
+                    "Linux",
+                    "UNIX",
+                    "Web Services",
+                    "Tomcat/ Apache web servers",
+                    "SQL",
+                    "PLSQL",
+                    "Oracle databases",
+                    "XML",
+                    "XSL/T",
+                    "Xpath",
+                    "TFS",
+                    "CVS",
+                    "SVN",
+                    "Perforce",
+                    "Unit testing",
+                    ".NET",
+                    "C#"
+                ],
+                "Responsibilities": [
+                    "Develop, deploy, and support applications",
+                    "Study system flows and work processes",
+                    "Handle support and development work items from multiple projects concurrently",
+                    "Analyse product requirements and contribute to the design, development, and implementation of the software modules",
+                    "Improve operations by collecting information from support incidents, conducting system analysis, root cause analysis, and provide issue resolutions"
+                ],
+                "Qualifications": [
+                    "Bachelor’s or Master’s degree in Computer Science or related field"
+                ],
+                "Experience Required": "0 to 3 year’s industry experience"
+            },
+            {
+                "Role": "Software Engineer",
+                "Company Name": "Dropbox",
+                "Required Skills": [
+                    "Python",
+                    "React",
+                    "Go"
+                ],
+                "Responsibilities": [
+                    "Partner with product managers, designers, and analysts to understand the needs of our users and build a product that serves those needs",
+                    "Build infrastructure to handle metadata for hundreds of billions of files, hundreds of petabytes of user data, and millions of concurrent connections",
+                    "Write modular, secure, and well-tested code",
+                    "Design and build software capable of reaching millions of daily users",
+                    "Ensure that our development environment is best-in-class by delivering improvements to internal tooling and direct partnership with our product platform teams",
+                    "Work closely with customer support to respond quickly to issues for our users and solve those in a permanent and scalable way",
+                    "Articulate a technical vision for a more enlightened way of working and work with multi-functional partners to deliver that vision"
+                ],
+                "Qualifications": [
+                    "BS degree in Computer Science or related technical field involving coding (e.g., physics or mathematics), or equivalent technical experience"
+                ],
+                "Experience Required": "2+ years of work-related industry experience"
+            }
+        ]
+    },
+    "Coserve_HR.pdf": {
+        "Job Role": "Human Resources (HR) Manager",
+        "Company Name": "Coserve Solutions",
+        "Responsibilities": [
+            "Develop and implement HR strategies and initiatives aligned with the overall business strategy",
+            "Bridge management and employee relations by addressing demands, grievances or other issues",
+            "Manage the recruitment and selection process",
+            "Support current and future business needs through the development, engagement, motivation and preservation of human capital",
+            "Develop and monitor overall HR strategies, systems, tactics and procedures across the organization",
+            "Nurture a positive working environment",
+            "Oversee and manage a performance appraisal system that drives high performance",
+            "Maintain pay plan and benefits program",
+            "Assess training needs to apply and monitor training programs",
+            "Report to management and provide decision support through HR metrics",
+            "Ensure legal compliance throughout human resource management"
+        ],
+        "Qualifications": [
+            "Proven working experience as HR manager or other HR executive",
+            "People oriented and results driven",
+            "Demonstrable experience with human resources metrics",
+            "Knowledge of HR systems and databases",
+            "Ability to architect strategy along with leadership skills",
+            "Excellent active listening, negotiation and presentation skills",
+            "Competence to build and effectively manage interpersonal relationships at all levels of the company",
+            "In-depth knowledge of labour law and HR best practices",
+            "Bachelors/ Master’s degree in Human Resources or related field"
+        ],
+        "Experience Required": "5-10",
+        "Required Skills": [
+            "Ability to architect strategy along with leadership skills",
+            "Excellent active listening, negotiation and presentation skills",
+            "People oriented and results driven",
+            "Competence to build and effectively manage interpersonal relationships at all levels of the company"
+        ]
+    },
+    "Operating-Systems-Engineer.pdf": {
+        "Job Role": "Operating Systems Engineer",
+        "Required Skills": [
+            "Must be able to work independently with little supervision.",
+            "Must be able to work well with a team.",
+            "Must have sound decision-making and problem-solving abilities.",
+            "Must have enthusiasm for engineering in the field PRC serves.",
+            "Good understanding of a wide variety of digital and peripheral circuitry"
+        ],
+        "Responsibilities": [
+            "Work with Software Engineering Manager to determine OS requirements.",
+            "Monitor news regarding OS changes and updates.",
+            "Test new OS updates including feature enhancements on devices.",
+            "Create and release master OS images for use in Manufacturing",
+            "Create documents to assist Manufacturing for applying OS image to devices.",
+            "Where applicable, create testing environments for devices and OSs to ensure compliance with functional specifications and other requirements.",
+            "Maintain documentation to ensure that it accurately reflects the OS implementation.",
+            "Assist in testing product solutions and in implementing changes as required for product release.",
+            "Work closely with hardware engineers and provide input to help optimize the overall product design.",
+            "Document and maintain OSs in accordance with Engineering policies and such that it can be understood and altered by any competent engineer. Maintain documentation, versions and revisions of software as needed to meet requirements.",
+            "Assist in training other staff when required. Act as a technical resource for other engineers, service staff, and other departments as required.",
+            "Provide the necessary technical information defining the operation and function of the design to the Hardware/Software Test Engineer, allowing the development of test procedures.",
+            "Support the development of printed and electronic documentation.",
+            "Release completed designs to production through standard Engineering procedures.",
+            "Attend department and applicable specific product meetings to obtain and communicate relevant information.",
+            "Strives to expand knowledge of recent developments and directions in the Windows, Android and iOS tablet/computer field, as well as the aspects of the AAC field in general, particularly how these issues affect the users of the products being designed.",
+            "Provide technical assistance to the service and manufacturing departments as required.",
+            "Develop support tools necessary to simplify product manufacturing, service support, international development/translations and icon maintenance.",
+            "Other duties and responsibilities as assigned."
+        ],
+        "Qualifications": [
+            "Minimum A.S. in computer science or Computer, or System Engineering equivalent education and experience.",
+            "Preferred to have at least three years’ experience in OS management/deployment. Appropriate internship, co-op, or similar work experience may be acceptable.",
+            "Helpful if experienced with Microsoft OS deployment tools.",
+            "Experience with Microsoft Deployment Toolkit is preferred",
+            "Prefer experience in Windows environment."
+        ],
+        "Experience Required": "Preferred to have at least three years’ experience in OS management/deployment. Appropriate internship, co-op, or similar work experience may be acceptable.",
+        "Company Name": "Prentke Romich Company"
+    },
     "Front-End-Developer.pdf": {
         "Job Role": "Front End Developer/Webmaster",
         "Required Skills": [
@@ -22,8 +232,79 @@
             "Assist with maintenance of system hardware and servers",
             "Advise on acquisition and installation of new hardware and servers, when necessary"
         ],
-        "Qualifications": "High proficiency with WordPress, Working knowledge of HTML, CSS and Javascript, Working knowledge of CakePHP, Proficiency in Adobe Creative Suite (Dreamweaver, Flash 8, Fireworks 8, Acrobat 8) and Windows environment (Windows XP, Microsoft Office), Familiarity with networking systems and networking concepts",
+        "Qualifications": "",
         "Experience Required": "",
         "Company Name": "The Climate Action Reserve"
+    },
+    "Machine_Learning_Engineer_JD_v3.pdf": {
+        "Job Role": "Machine Learning Engineer",
+        "Company Name": "XYZ Tech Solutions",
+        "Responsibilities": [
+            "Develop, implement, and optimize machine learning models to solve business problems.",
+            "Collaborate with cross-functional teams to define and understand business requirements.",
+            "Build data pipelines to preprocess and clean data for model training.",
+            "Evaluate the performance of machine learning models and tune parameters to optimize performance.",
+            "Deploy machine learning models into production environments and monitor their performance.",
+            "Stay updated on the latest research in machine learning and artificial intelligence.",
+            "Document processes and findings, including algorithms and model implementations.",
+            "Participate in code reviews and contribute to continuous improvement of the development process."
+        ],
+        "Required Skills": [
+            "Proficiency in Python and libraries such as TensorFlow, PyTorch, scikit-learn, etc.",
+            "Experience with data manipulation and preprocessing using Pandas, NumPy, or similar tools.",
+            "Knowledge of deep learning, reinforcement learning, and natural language processing (NLP) is a plus.",
+            "Strong problem-solving and analytical skills.",
+            "Experience with cloud platforms such as AWS, Google Cloud, or Azure.",
+            "Familiarity with version control tools like Git.",
+            "Ability to write clean, efficient, and maintainable code.",
+            "Excellent communication skills to work with non-technical stakeholders."
+        ],
+        "Qualifications": [
+            "Education: Bachelor's or Master's degree in Computer Science, Engineering, Mathematics, or related field.",
+            "Experience: 3+ years of experience in machine learning and software development.",
+            "Experience with distributed machine learning frameworks.",
+            "Familiarity with big data technologies like Hadoop or Spark.",
+            "Contributions to open-source machine learning projects or publications in peer-reviewed journals."
+        ],
+        "Experience Required": "3+ years of experience in machine learning and software development."
+    },
+    "Backend-Developer-Job-Description.pdf": {
+        "Job Role": "Back-End Developer",
+        "Required Skills": [
+            "C# ASP.NET (framework, CORE)",
+            "JavaScript",
+            "REST/SOAP",
+            "OOP design",
+            "Programming language (.NET C#, database (MS-SQL))",
+            "Understanding of SOAP based technologies (WCF) and Web Service",
+            "Understanding of RESTful based technologies",
+            "Basic knowledge in Design Pattern",
+            "Protocol programming/technologies such as TCP/IP, Short Messaging Peer-to-Peer, or ISO Standard",
+            "SQL Server 2005 / 2008 / R2 development",
+            "Creating and consuming web services",
+            "Working experience with source control Git",
+            "Unit Testing and Dependency Injection",
+            "Scrum methodology",
+            "Good communication and documentation skills"
+        ],
+        "Responsibilities": [
+            "Responsible for software deliverables including, but not limited to, user interfaces, algorithms, data management, visualization, security",
+            "Balance design principles and technology standards with product timelines and customer specific requirements",
+            "Develop WCF Web Services and Web API as needed",
+            "Responding promptly and professionally to bug reports",
+            "Work under minimum supervision",
+            "Work under challenge",
+            "Collaborate with team members on overall system design"
+        ],
+        "Qualifications": [
+            "BSc/BA in Computer Science, Engineering or a related field"
+        ],
+        "Experience Required": [
+            "Previous working experience on programming language (.NET C#, database (MS-SQL) with an understanding of SOAP based technologies (WCF) and Web Service",
+            "Experience in SQL Server 2005 / 2008 / R2 development, familiar with stored procedures and functions, ability to build SQL data structures and expose to database design and development",
+            "Experience creating and consuming web services",
+            "Working experience with source control Git"
+        ],
+        "Company Name": ""
     }
 }
