@@ -250,7 +250,7 @@ def extract_text_from_pdf(pdf_path):  # Corrected function signature
     return text
 
 def clean_and_structure_jd(jd_text, openai_api_key):
-    """Uses OpenAI to clean and structure JD text and *extract the Job Role*."""
+    """Uses OpenAI to clean and structure JD text."""
     openai.api_key = openai_api_key
 
     if not jd_text or not jd_text.strip():
@@ -258,26 +258,24 @@ def clean_and_structure_jd(jd_text, openai_api_key):
         return {}
 
     prompt = f"""
-    Given the following job description text, extract and structure it into a JSON format.  **Crucially, identify and extract the actual *Job Role* from the description.**
-
-    Job Description:
-    {jd_text}
-
-    Return a valid JSON format with the following keys (including Job Role):
-    - Job Role  (The actual job role, e.g., "Software Engineer," not the PDF filename)
+    Given the following job description text, extract and structure it into a JSON format with the following keys:
+    - Job Role
     - Required Skills
     - Responsibilities
     - Qualifications
     - Experience Required
     - Company Name (if available)
 
-    If you cannot find a field, you can leave it as an empty string or null value. Do not explain your reasoning, just return the JSON.
+    Job Description:
+    {jd_text}
+
+    Return a valid JSON format. If you cannot find a field, you can leave it as an empty string or null value. Do not explain your reasoning, just return the JSON.
     """
 
     try:
-        response = openai.ChatCompletion.create(
-            model="gpt-4",  # or gpt-3.5-turbo
-            messages=[
+        response = openai.ChatCompletion.create(  # Use ChatCompletion.create
+            model="gpt-4",  # Or gpt-3.5-turbo
+            messages=[  # Use 'messages' for chat models
                 {"role": "system", "content": "You are a helpful assistant that extracts information from job descriptions and returns it as structured JSON."},
                 {"role": "user", "content": prompt}
             ],
@@ -285,16 +283,11 @@ def clean_and_structure_jd(jd_text, openai_api_key):
             temperature=0.7
         )
 
-        json_string = response['choices'][0]['message']['content'].strip()
+        json_string = response['choices'][0]['message']['content'].strip()  # Access content from 'message'
 
         try:
             structured_data = json.loads(json_string)
-            job_role = structured_data.get("Job Role")  # Extract the Job Role
-            if not job_role:
-                st.error("Could not extract Job Role from JD.")
-                return {}
-            return {job_role: structured_data}  # Use Job Role as the key
-
+            return structured_data
         except json.JSONDecodeError as e:
             st.error(f"Invalid JSON returned by OpenAI: {e}. Raw Response: {json_string}")
             return {}
@@ -302,7 +295,7 @@ def clean_and_structure_jd(jd_text, openai_api_key):
     except Exception as e:
         st.error(f"Error with OpenAI API call: {e}")
         return {}
-    
+
 def main():
     st.title("AI Recruitment System")
 
